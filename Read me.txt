@@ -1,0 +1,23 @@
+Callum Ahmed - 1903181
+
+INSTRUCTIONS
+To run the program firstly run the server exe file, then run the client exe file to join.
+when a client joins they will be asked to enter a name, they will then be sent to the lobby screen.
+the server can host up to 4 players.
+from the lobby the clients can press the spacebar to ready up, once all players are ready you can press enter to begin the game.
+at any point in the lobby or during the game the client can press the escape key to disconnect and exit the lobby/game.
+
+When in game the clients can move their player using the WASD keys, they can also shoot in one of 4 directions using the arrow keys.
+the goal is to shoot and eliminate the others players while avoiding their bullets, the last player standing wins.
+when there is only one remaining player all clients will be directed to a win screen which displays the winner of the game.
+from the win screen, players can press the enter key to return to the lobby.
+
+
+EXTERNAL LIBRARIES
+the project uses sfml libraries, which can be setup by following the tutorial linked below, however the project should already compile correctly
+https://www.sfml-dev.org/tutorials/2.5/start-vc.php
+The project uses sfml version 2.5.1 Visual C++ 15 (2017) - 32-bit
+
+DEMO
+My demo video is linked below, it showcases the game running with 4 players with and without added latency.
+https://web.microsoftstream.com/video/5c9a425a-b53d-4ff5-b35f-3a10cb364384

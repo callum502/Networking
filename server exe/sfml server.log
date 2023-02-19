@@ -1,0 +1,4 @@
+﻿  server.cpp
+C:\Users\Callum\Desktop\hell\3rd year\303\sfml server\server.cpp(335,51): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Callum\Desktop\hell\3rd year\303\sfml server\server.cpp(31,5): warning C4101: 'port': unreferenced local variable
+  sfml server.vcxproj -> C:\Users\Callum\Desktop\hell\3rd year\303\sfml server\Debug\sfml server.exe

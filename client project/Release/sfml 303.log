@@ -1,0 +1,2 @@
+﻿  client.cpp
+C:\Users\Callum\Desktop\hell\3rd year AHHHHHHHH\303\sfml client\client.cpp(1,10): fatal error C1083: Cannot open include file: 'sfml/Network.hpp': No such file or directory

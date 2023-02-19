@@ -1,0 +1,3 @@
+C:\Users\Callum\Desktop\hell\3rd year AHHHHHHHH\303\sfml server\Debug\sfml server.exe
+C:\Users\Callum\Desktop\hell\3rd year\303\sfml server\Debug\sfml server.exe
+C:\Users\Callum\Desktop\AhmedCallum_1903181_CMP303\server project\Debug\sfml server.exe
